@@ -1,0 +1,130 @@
+[INFO  - 2017-02-13T19:28:06.629Z] GhostDriver - Main - running on port 33535
+[INFO  - 2017-02-13T19:28:07.265Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-13T19:28:07.266Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.customHeaders:  - {}
+[INFO  - 2017-02-13T19:28:07.266Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-13T19:28:07.266Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8bf97490-f222-11e6-944c-53b8a4a33ba2
+[ERROR - 2017-02-13T19:28:08.740Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:08.741Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  global code (https://www.mthbet28.com/gi/static/virtual-sports/common/scripts/js/panbet.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:08.830Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: Error: Can't find variable: $
+link@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:9:25146
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:11134
+wt@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:11057
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4918
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86402
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86419
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4861
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86402
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:85933
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:16829
+$eval@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:30947
+$apply@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:31185
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:16791
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:60879
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:8557
+ot@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:8836
+it@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:8075
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:6:11439
+n@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:4:9404
+Yt@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:17929
+n@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:17873 <nav class="game-nav js-menu" menu-width="">
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:08.830Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  (anonymous function) (https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.013Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: Error: Can't find variable: $
+link@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:9:25448
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:11134
+wt@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:11057
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4918
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86402
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86419
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4861
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:8602
+s@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:11352
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:11524
+$eval@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:30947
+$digest@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:29425
+$apply@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:31237
+u@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:75893
+w@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:65988
+onload@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:66461 <div class="menu-button" toggle-menu="">
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.013Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  (anonymous function) (https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.020Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: Error: Can't find variable: $
+link@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:9:25146
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:11134
+wt@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:11057
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4918
+a@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:1:86402
+h@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:4861
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:8602
+s@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:11352
+https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:11524
+$eval@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:30947
+$digest@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:29425
+$apply@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:3:31237
+u@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:75893
+w@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:65988
+onload@https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2:66461 <ul class="game-nav__list nav-list js-menu" menu-width="">
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.021Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  (anonymous function) (https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.300Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: TransitionRejection(type: 2, message: The transition has been superseded by a different transition, detail: Transition#1( ''{} -> 'categories'{"targetUrl":"football"} ))
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:09.300Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  _defaultErrorHandler (https://www.mthbet28.com/gi/static/virtual-sports/scripts/js/virtual-sports.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:11.299Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: TypeError: Attempting to change access mechanism for an unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:11.299Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  defineProperty (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:9)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:9)
+  t (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+  t (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:11.343Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - msg: TypeError: undefined is not a function (evaluating 'this.getPlayer().load()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:11.343Z] Session [8bf97490-f222-11e6-944c-53b8a4a33ba2] - page.onError - stack:
+  load (https://rgs.betradar.com/vflmarathonbet/js/common/player.js?t=1485931892:790)
+  play (https://rgs.betradar.com/vflmarathonbet/js/common/player.js?t=1485931892:879)
+  flowplayer_start (https://rgs.betradar.com/vflmarathonbet/vleague.php?clientid=1387&lang=ru:993)
+  (anonymous function) (https://rgs.betradar.com/vflmarathonbet/vleague.php?clientid=1387&lang=ru:1015)
+  n (https://vfl3.betradar.com/ls/livescore/js/jquery/jquery.js:2)
+  fireWith (https://vfl3.betradar.com/ls/livescore/js/jquery/jquery.js:2)
+  ready (https://vfl3.betradar.com/ls/livescore/js/jquery/jquery.js:2)
+  B (https://vfl3.betradar.com/ls/livescore/js/jquery/jquery.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-13T19:28:17.822Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487014097800
+
+  phantomjs://platform/console++.js:263 in error
+events.js:161
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read EIO
+    at exports._errnoException (util.js:1023:11)
+    at TTY.onread (net.js:572:26)
