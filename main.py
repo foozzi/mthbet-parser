@@ -18,26 +18,29 @@ from selenium import webdriver
 import selenium.webdriver.support.ui as ui
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-
+import re
 import time
-
+import sys  
 
 
 class parser():
+    reload(sys)  
+    sys.setdefaultencoding('utf-8')
+    
     parse_tour = 0
     frame1 = ''
     frame2 = ''
-    max_kof = 300
-    min_kof = 150
+    max_kof = 400
+    min_kof = 300
+    season = 0
     
     def start(self):
-        driver = webdriver.Firefox() #or switch to PhantomJS
-        driver.set_window_size(1120, 550)
+        driver = webdriver.PhantomJS() #or switch to PhantomJS
+        driver.set_window_size(1120, 800)
         driver.get("https://www.mthbet28.com/su/virtual-sports/football")
         
-        #time.sleep(10)
         i = 1
-        time.sleep(3)
+        time.sleep(5)
         
         driver.switch_to_default_content()
         #switch to iframe 1
@@ -47,8 +50,12 @@ class parser():
         self.frame2 = self.getFrame(driver, "//iframe[1]")
         driver.switch_to.frame(self.frame2)
         
+        self.season = driver.find_element_by_id('tab_season').get_attribute('innerText')
+        self.season = int(filter(str.isdigit, str(self.season)))
+        print self.season
+        
         current_tour = driver.find_element_by_id('matchdays_container').find_element_by_class_name('current').get_attribute('innerText')
-        if current_tour == 30:
+        if int(current_tour) == 30:
             i = 6
         
         while i < 30:
@@ -61,10 +68,13 @@ class parser():
             #switch to iframe 2
             self.frame2 = self.getFrame(driver, "//iframe[1]")
             driver.switch_to.frame(self.frame2)
-
-            driver.find_element_by_id('matchday' + str(i)).click()
-            self.getKofTour(driver)
-            i += 1
+            tour = driver.find_element_by_id('matchday' + str(i))
+            m = re.search('notPlayedYet', tour.get_attribute('class'))
+            if m == None:
+                print driver.find_element_by_id('matchday' + str(i)).get_attribute('innerText')
+                driver.find_element_by_id('matchday' + str(i)).click()
+                self.getKofTour(driver)
+                i += 1
         driver.quit()
         
     def getFrame(self, driver, frame):
@@ -81,6 +91,8 @@ class parser():
     def getKofTour(self, driver):
         match = []
         kofs = []
+        win_kofs = []
+        not_win_kofs = []
         driver.switch_to_default_content()
         self.frame1 = self.getFrame(driver, "//iframe[1]")
         driver.switch_to.frame(self.frame1)
@@ -94,16 +106,40 @@ class parser():
             for kofs in match.find_elements_by_class_name('matchlist-item-options-container'):
                 type_result_i += 1
                 # check if exists win kofs
-                try:
-                    game_kof_result_win_box = kofs.find_element_by_class_name('wonOdd').get_attribute('innerText') 
-                    print int(round(float(game_kof_result_win_box)*100))
-                except NoSuchElementException:
-                    if type_result_i == 3:
-                        print 'All ' + str(self.parse_tour) + ' is parsed'
-                        driver.quit()
-                    else:
-                        continue
+                game_kof_result_win_box = kofs.find_element_by_class_name('wonOdd').get_attribute('innerText') 
+                self.checkWinSeries(int(round(float(game_kof_result_win_box)*100)))
+                
+                #check not win kofs
+                game_kof_result_not_win_box = kofs.find_element_by_class_name('matchlist-odd-value').get_attribute('class') 
+                m = re.search('wonOdd', game_kof_result_not_win_box)
+                if m == None:
+                    self.checkNotWinSeries(int(round(float(game_kof_result_win_box)*100)))
+                #win_kofs[self.parse_tour] = int(round(float(game_kof_result_win_box)*100)) 
+                #print win_kofs[self.parse_tour]
                     
+    def checkNotWinSeries(self, kof, type_res):
+        if self.min_kof <= kof:
+            if self.max_kof >= kof:
+                print kof
+                file = open("./kofs_not_win", "a")
+                file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. not win:' + str(kof))
+                file.write('\n')
+                file.close()
+
+    def checkWinSeries(self, kof, type_res):
+        if self.min_kof <= kof:
+            if self.max_kof >= kof:
+                print kof
+                file = open("./kofs_win", "a")
+                file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. win:' + str(kof))
+                file.write('\n')
+                file.close()
+                
+    def getTypeStringResult(self, type_res_int):
+        return {
+            1: 'Match result',
+            2: 
+        }
 
 if __name__ == "__main__":
     Bet = parser()
