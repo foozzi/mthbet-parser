@@ -4735,3 +4735,1822 @@ Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with rea
 ###!!! [Child][MessageChannel] Error: (msgtype=0x4A00EA,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
 
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1487032278812	geckodriver	INFO	Listening on 127.0.0.1:38667
+1487032279811	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CLB7E3DgXier
+1487032279812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032279815	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44027
+1487032282609	Marionette	INFO	Listening on port 44027
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:3396): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:3396): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+1487032412946	geckodriver	INFO	Listening on 127.0.0.1:60271
+1487032413944	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VsCIdHDbeZWx
+1487032413945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032413949	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44177
+1487032415258	Marionette	INFO	Listening on port 44177
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:3608): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:3608): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+1487032481647	geckodriver	INFO	Listening on 127.0.0.1:56679
+1487032482645	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WkymBnABYcAP
+1487032482646	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032482649	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45803
+1487032484007	Marionette	INFO	Listening on port 45803
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:3766): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:3766): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3668): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487032684161	geckodriver	INFO	Listening on 127.0.0.1:59239
+1487032685159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KtkKFZrf9uhH
+1487032685160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032685164	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44567
+1487032686475	Marionette	INFO	Listening on port 44567
+JavaScript warning: https://www.mthbet28.com/gi/static/virtual-sports/common/scripts/js/panbet.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb, line 1: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:3996): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:3996): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3893): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487032844415	geckodriver	INFO	Listening on 127.0.0.1:41883
+1487032845413	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HstVAIIZHlal
+1487032845413	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032845417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34091
+1487032846732	Marionette	INFO	Listening on port 34091
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:4185): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:4185): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4087): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487032924278	geckodriver	INFO	Listening on 127.0.0.1:53675
+1487032925270	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.y8UvDkoRh8pO
+1487032925271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487032925274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42063
+1487032926554	Marionette	INFO	Listening on port 42063
+JavaScript warning: https://www.mthbet28.com/gi/static/virtual-sports/common/scripts/js/panbet.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb, line 1: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:4483): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:4483): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4383): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033038816	geckodriver	INFO	Listening on 127.0.0.1:58493
+1487033039816	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ie8ATZadKlNR
+1487033039817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033039821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38445
+1487033041093	Marionette	INFO	Listening on port 38445
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:4774): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:4774): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4676): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033082867	geckodriver	INFO	Listening on 127.0.0.1:58413
+1487033083867	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UxRv4OH1US8g
+1487033083868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033083874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37271
+1487033085156	Marionette	INFO	Listening on port 37271
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:4923): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:4923): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4826): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033115305	geckodriver	INFO	Listening on 127.0.0.1:58909
+1487033116305	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fBGqkiQNGYAO
+1487033116306	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033116308	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45889
+1487033117774	Marionette	INFO	Listening on port 45889
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:5085): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:5085): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4984): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033333957	geckodriver	INFO	Listening on 127.0.0.1:49275
+1487033334957	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3i6BRYSJVOYV
+1487033334958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033334962	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41467
+1487033336278	Marionette	INFO	Listening on port 41467
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:5439): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:5439): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5323): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033386341	geckodriver	INFO	Listening on 127.0.0.1:44831
+1487033387341	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4agXohmC5o9G
+1487033387343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033387348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43897
+1487033388605	Marionette	INFO	Listening on port 43897
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:5652): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:5652): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5556): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033541546	geckodriver	INFO	Listening on 127.0.0.1:54663
+1487033542547	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xhwoUblrGcTw
+1487033542547	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033542550	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44759
+1487033543795	Marionette	INFO	Listening on port 44759
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:5969): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:5969): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5865): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033582362	geckodriver	INFO	Listening on 127.0.0.1:55073
+1487033583361	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ateanwFVR6Y1
+1487033583361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033583364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45097
+1487033584662	Marionette	INFO	Listening on port 45097
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:6110): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:6110): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6013): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033609936	geckodriver	INFO	Listening on 127.0.0.1:38905
+1487033610937	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s6umbb6j9w73
+1487033610938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033610941	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39475
+1487033612245	Marionette	INFO	Listening on port 39475
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:6268): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:6268): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6169): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033662888	geckodriver	INFO	Listening on 127.0.0.1:41841
+1487033663887	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.n7Q8gB8ojAbs
+1487033663888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033663890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40145
+1487033665144	Marionette	INFO	Listening on port 40145
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:6413): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:6413): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6314): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033726949	geckodriver	INFO	Listening on 127.0.0.1:44781
+1487033727947	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CIITg9dvHb8B
+1487033727947	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033727951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33845
+1487033729497	Marionette	INFO	Listening on port 33845
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:6615): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:6615): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033773701	geckodriver	INFO	Listening on 127.0.0.1:39173
+1487033774694	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Err890npaRe5
+1487033774695	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033774698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44085
+1487033776050	Marionette	INFO	Listening on port 44085
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:6772): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:6772): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6665): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033918277	geckodriver	INFO	Listening on 127.0.0.1:51819
+1487033919277	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.T5lUV1vusBAi
+1487033919278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033919282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40713
+1487033920774	Marionette	INFO	Listening on port 40713
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:7024): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:7024): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6920): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487033946870	geckodriver	INFO	Listening on 127.0.0.1:44325
+1487033947867	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.q9tVX77DJMXS
+1487033947868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033947872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42385
+1487033949136	Marionette	INFO	Listening on port 42385
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:7178): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:7178): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[NPAPI 7178] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 7178] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7136] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7136] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7136] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+1487033987948	geckodriver	INFO	Listening on 127.0.0.1:60277
+1487033988947	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ehdtAWtLsUOU
+1487033988947	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487033988951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38955
+1487033990217	Marionette	INFO	Listening on port 38955
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:7344): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:7344): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7248): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[NPAPI 7344] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 7344] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7305] WARNING: pipe error (13): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7305] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7305] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7305] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+1487034038109	geckodriver	INFO	Listening on 127.0.0.1:33151
+1487034039108	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EqG2YzkAcmCX
+1487034039108	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034039113	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39771
+1487034040403	Marionette	INFO	Listening on port 39771
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:7509): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:7509): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7412): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7470] WARNING: pipe error (13): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=42.3046) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7470] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7470] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7470] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+1487034132955	geckodriver	INFO	Listening on 127.0.0.1:43479
+1487034133955	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7WnpgqWAAqvx
+1487034133955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034133958	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34455
+1487034135292	Marionette	INFO	Listening on port 34455
+[Child 7655] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7655] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7655] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+1487034239179	geckodriver	INFO	Listening on 127.0.0.1:50941
+1487034240178	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kneaOrvBpx7F
+1487034240179	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034240183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44559
+1487034241446	Marionette	INFO	Listening on port 44559
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:7849): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:7849): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7749): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7810] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox/src/firefox-51.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7810] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7810] ###!!! ABORT: Aborting on channel error.: file /build/firefox/src/firefox-51.0.1/ipc/glue/MessageChannel.cpp, line 2056
+1487034445126	geckodriver	INFO	Listening on 127.0.0.1:35425
+1487034446125	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q7B33U8V5eEm
+1487034446125	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034446130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43353
+1487034447671	Marionette	INFO	Listening on port 43353
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8078): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8078): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7968): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487034569070	geckodriver	INFO	Listening on 127.0.0.1:54135
+1487034570067	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AapfvllS4qYd
+1487034570068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034570071	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33883
+1487034571360	Marionette	INFO	Listening on port 33883
+JavaScript warning: https://www.mthbet28.com/gi/static/virtual-sports/common/scripts/js/panbet.js?version=0d75e5ae-2ada-429a-bace-260f73bc81bb, line 1: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8268): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8268): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8174): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487034752373	geckodriver	INFO	Listening on 127.0.0.1:40077
+1487034753370	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GmQtiZXcp0bU
+1487034753371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034753375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41997
+1487034754915	Marionette	INFO	Listening on port 41997
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8455): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8455): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487034882582	geckodriver	INFO	Listening on 127.0.0.1:55971
+1487034883580	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FrMawT0LutuP
+1487034883580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034883584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44911
+1487034885334	Marionette	INFO	Listening on port 44911
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8643): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8643): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8544): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487034911469	geckodriver	INFO	Listening on 127.0.0.1:55287
+1487034912466	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Z60LO0bBxaOz
+1487034912467	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034912471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34025
+1487034914018	Marionette	INFO	Listening on port 34025
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8786): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8786): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8687): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487034955264	geckodriver	INFO	Listening on 127.0.0.1:53919
+1487034956263	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ejNNADJMMFmI
+1487034956264	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487034956267	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39193
+1487034957638	Marionette	INFO	Listening on port 39193
+JavaScript warning: https://rgs.betradar.com/ls/livescore/assets/marathonbet/rgs/js/rgs.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/plugin-container:8930): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+
+(/usr/lib/firefox/plugin-container:8930): Gtk-WARNING **: Загружаемый модуль тем не найден в module_path: «adwaita»,
+Vector smash protection is enabled.
+JavaScript error: https://rgs.betradar.com/vflmarathonbet/liveplayer/liveplayer.min.js?t=1485931893, line 21: Error: Permission denied to access property "href"
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+JavaScript warning: https://vfl3.betradar.com/ls/livescore/js/srlive.templating.js, line 1: unreachable code after return statement
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8834): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed

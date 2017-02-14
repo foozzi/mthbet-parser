@@ -27,6 +27,8 @@ class parser():
     parse_tour = 0
     frame1 = ''
     frame2 = ''
+    max_kof = 300
+    min_kof = 150
     
     def start(self):
         driver = webdriver.Firefox() #or switch to PhantomJS
@@ -37,7 +39,19 @@ class parser():
         i = 1
         time.sleep(3)
         
-        while i < 29:
+        driver.switch_to_default_content()
+        #switch to iframe 1
+        self.frame1 = self.getFrame(driver, "//iframe[1]")
+        driver.switch_to.frame(self.frame1)
+        #switch to iframe 2
+        self.frame2 = self.getFrame(driver, "//iframe[1]")
+        driver.switch_to.frame(self.frame2)
+        
+        current_tour = driver.find_element_by_id('matchdays_container').find_element_by_class_name('current').get_attribute('innerText')
+        if current_tour == 30:
+            i = 6
+        
+        while i < 30:
             self.parse_tour = i
             print 'Check ' + str(i) + ' tour'
             driver.switch_to_default_content()
@@ -47,14 +61,10 @@ class parser():
             #switch to iframe 2
             self.frame2 = self.getFrame(driver, "//iframe[1]")
             driver.switch_to.frame(self.frame2)
+
             driver.find_element_by_id('matchday' + str(i)).click()
             self.getKofTour(driver)
             i += 1
-        
-        #print getCurrentTour(driver)
-        #html = driver.find_element_by_id('matchdays_container').get_attribute('innerHTML')
-        #driver.find_element_by_id("search_button_homepage").click()
-        #print html
         driver.quit()
         
     def getFrame(self, driver, frame):
@@ -70,16 +80,30 @@ class parser():
             
     def getKofTour(self, driver):
         match = []
+        kofs = []
         driver.switch_to_default_content()
         self.frame1 = self.getFrame(driver, "//iframe[1]")
         driver.switch_to.frame(self.frame1)
-        time.sleep(2)
-        games_container = driver.find_element_by_id("rgs-matchlist-container")
-        games = games_container.find_element_by_class_name("rgs-matchlist-item")
-        games_name = games.find_element_by_class_name("matchlist-item-teams").get_attribute('innerText')
-        print self.parse_tour
-        print games_name
-        #print driver.find_element_by_id('mainTab').get_attribute('innerHTML')
+        time.sleep(5)
+        
+        for match in driver.find_elements_by_class_name("rgs-matchlist-item"):
+            games_name = match.find_element_by_class_name("matchlist-item-teams").get_attribute('innerText')
+            print games_name
+            #get kofs
+            type_result_i = 0
+            for kofs in match.find_elements_by_class_name('matchlist-item-options-container'):
+                type_result_i += 1
+                # check if exists win kofs
+                try:
+                    game_kof_result_win_box = kofs.find_element_by_class_name('wonOdd').get_attribute('innerText') 
+                    print int(round(float(game_kof_result_win_box)*100))
+                except NoSuchElementException:
+                    if type_result_i == 3:
+                        print 'All ' + str(self.parse_tour) + ' is parsed'
+                        driver.quit()
+                    else:
+                        continue
+                    
 
 if __name__ == "__main__":
     Bet = parser()
