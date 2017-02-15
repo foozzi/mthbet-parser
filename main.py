@@ -29,7 +29,7 @@ class parser():
     parse_tour = 0
     frame1 = ''
     frame2 = ''
-    max_kof = 400
+    max_kof = 2500
     min_kof = 300
     season = 0
     
@@ -88,40 +88,57 @@ class parser():
         self.frame1 = self.getFrame(driver, "//iframe[1]")
         driver.switch_to.frame(self.frame1)
         time.sleep(5)
+
+        matchlist_container = driver.find_element_by_id('rgs-matchlist-container')
         
-        for match in driver.find_elements_by_class_name("rgs-matchlist-item"):
+        # for incr xpath
+        i_c = 1
+
+        for match in matchlist_container.find_elements_by_class_name("rgs-matchlist-item"):
             games_name = match.find_element_by_class_name("matchlist-item-teams").get_attribute('innerText')
-            print games_name
-            #get kofs
-            type_result_i = 0
-            for kofs in match.find_elements_by_class_name('matchlist-item-options-container'):
-                type_result_i += 1
+            print games_name                
+
+            # incr xpath
+            number_matchlist_container = i_c * 3
+            i_c += 1
+
+            matchlist_item_option_container = match.find_element_by_xpath("(//div[@class='matchlist-item-options-container 3way'])["+str(number_matchlist_container)+"]")
+            matchlist_betting_options = matchlist_item_option_container.find_element_by_class_name('matchlist-betting-options')
+
+
+            for total_kofs_box in matchlist_betting_options.find_elements_by_tag_name("label"):
                 # check if exists win kofs
-                game_kof_result_win_box = kofs.find_element_by_class_name('wonOdd').get_attribute('innerText') 
-                self.checkWinSeries(int(round(float(game_kof_result_win_box)*100)))
-                
-                #check not win kofs
-                game_kof_result_not_win_box = kofs.find_element_by_class_name('matchlist-odd-value').get_attribute('class') 
+                # game_kof_result_win_box = total_result_box.find_element_by_class_name('wonOdd').get_attribute('innerText') 
+                # self.checkWinSeries(int(round(float(game_kof_result_win_box)*100)))
+                game_kof_result_win_box = 0
+
+                game_kof_result_not_win_box = total_kofs_box.get_attribute('class') 
+                print game_kof_result_not_win_box
+
                 m = re.search('wonOdd', game_kof_result_not_win_box)
                 if m == None:
+                    game_kof_result_win_box = total_kofs_box.get_attribute('innerText')
                     self.checkNotWinSeries(int(round(float(game_kof_result_win_box)*100)))
+
+                        
                     
-    def checkNotWinSeries(self, kof, type_res):
+    def checkNotWinSeries(self, kof):
+        print kof
         if self.min_kof <= kof:
             if self.max_kof >= kof:
-                print kof
+                
                 file = open("./kofs_not_win", "a")
                 file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. not win:' + str(kof))
                 file.write('\n')
                 file.close()
 
-    def checkWinSeries(self, kof, type_res):
+    def checkWinSeries(self, kof):
         if self.min_kof <= kof:
             if self.max_kof >= kof:
                 print kof
-                file = open("./kofs_win", "a")
+                file = open("./kofs_win", "w")
                 file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. win:' + str(kof))
-                file.write('\n')
+                #file.write('\n')
                 file.close()
 
 if __name__ == "__main__":
