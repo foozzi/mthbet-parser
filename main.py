@@ -20,6 +20,8 @@ from selenium.common.exceptions import NoSuchElementException
 import re
 import time
 import sys  
+import sqlite3
+from datetime import datetime, date
 
 
 class parser():
@@ -32,12 +34,22 @@ class parser():
     max_kof = 2500
     min_kof = 300
     season = 0
+
+    con = ''
     
     def start(self):
         driver = webdriver.PhantomJS() #or switch to PhantomJS
         driver.set_window_size(1120, 800)
         driver.get("https://www.mthbet28.com/su/virtual-sports/football")
-        
+
+        self.con = sqlite3.connect('bets.db')
+
+        # create table win_bets if not exists
+        self.con.cursor()
+        self.con.execute(
+            'CREATE TABLE IF NOT EXISTS win_bets (id INTEGER PRIMARY KEY, season INTEGER, tour INTEGER, kof INTEGER, date_parse DATE)')
+        self.con.commit()
+                
         i = 1
         time.sleep(5)
         
@@ -75,6 +87,7 @@ class parser():
                 driver.find_element_by_id('matchday' + str(i)).click()
                 self.getKofTour(driver)
             i += 1
+        self.con.close()
         driver.quit()
         
     def getFrame(self, driver, frame):
@@ -113,33 +126,38 @@ class parser():
                 game_kof_result_win_box = 0
 
                 game_kof_result_not_win_box = total_kofs_box.get_attribute('class') 
-                print game_kof_result_not_win_box
 
                 m = re.search('wonOdd', game_kof_result_not_win_box)
                 if m == None:
                     game_kof_result_win_box = total_kofs_box.get_attribute('innerText')
-                    self.checkNotWinSeries(int(round(float(game_kof_result_win_box)*100)))
+                    kof = int(round(float(game_kof_result_win_box)*100))
+                    self.checkIfExistsKof(kof)
+                    self.checkAndSaveNotWinSeries(kof)
 
                         
                     
-    def checkNotWinSeries(self, kof):
+    def checkAndSaveNotWinSeries(self, kof):
         print kof
         if self.min_kof <= kof:
             if self.max_kof >= kof:
-                
-                file = open("./kofs_not_win", "a")
-                file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. not win:' + str(kof))
-                file.write('\n')
-                file.close()
+                self.con.execute(
+                    'INSERT INTO win_bets VALUES(NULL, ?, ?, ?, ?)', (self.season, self.parse_tour, kof, datetime.now()))
+                self.con.commit()
 
-    def checkWinSeries(self, kof):
-        if self.min_kof <= kof:
-            if self.max_kof >= kof:
-                print kof
-                file = open("./kofs_win", "w")
-                file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. win:' + str(kof))
-                #file.write('\n')
-                file.close()
+    def checkIfExistsKof(self, kof):
+        self.con.execute(
+            'SELECT id FROM win_bets WHERE season = ? AND tour = ? AND kof = ?', (self.season, self.parse_tour, kof))
+        data = self.con.fetchone()
+        print data[0]
+
+    # def checkWinSeries(self, kof):
+    #     if self.min_kof <= kof:
+    #         if self.max_kof >= kof:
+    #             print kof
+    #             file = open("./kofs_win", "w")
+    #             file.write('Season: ' + str(self.season) + ' Tour:' + str(self.parse_tour) + ' Kof. win:' + str(kof))
+    #             #file.write('\n')
+    #             file.close()
 
 if __name__ == "__main__":
     Bet = parser()
